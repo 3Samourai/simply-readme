@@ -69,9 +69,8 @@ NodeJS
 ### Installing
 A step by step guide that tell you how to Install simply-readme.
 
-
 ```
-npx i  
+npx github:3Samourai/simply-readme
 ```
 
 ## 🔧 Running the tests <a name = "tests"></a>
