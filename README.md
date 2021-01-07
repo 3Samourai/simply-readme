@@ -82,7 +82,7 @@ npm test
 
 ## 🎈 Usage and Example <a name="usage"></a>
 
- <img width=1000px height=500px src="https://raw.githubusercontent.com/3Samourai/simply-readme/main/lib/img.jpeg" alt="GIF Example"></a>
+ <img width=1000px height=500px src="https://raw.githubusercontent.com/3Samourai/simply-readme/main/carbon.png" alt="GIF Example"></a>
 
 ## 🗺 RoadMap <a name = "roadmap"></a>
 TODO - Add RoadMapYour RoadMap
