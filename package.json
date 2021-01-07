@@ -1,0 +1,29 @@
+{
+  "name": "simply-readme",
+  "version": "1.0.0",
+  "description": "Make beautiful README ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "README",
+    "Github",
+    "MIT3"
+  ],
+  "bin": {
+    "simply-readme": "./index.js"
+  },
+  "author": "3Samourai",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "ora": "^5.2.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
