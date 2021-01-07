@@ -81,7 +81,7 @@ npm test
 ```
 
 ## 🎈 Usage and Example <a name="usage"></a>
-TODO - Add GIF Example
+
  <img width=800px height=800px src="https://raw.githubusercontent.com/3Samourai/simply-readme/main/lib/img.jpeg" alt="GIF Example"></a>
 
 ## 🗺 RoadMap <a name = "roadmap"></a>
