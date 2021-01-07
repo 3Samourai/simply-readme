@@ -7,7 +7,7 @@
 -->
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://via.placeholder.com/200x200.png?text=LOGO" alt="Project logo"></a>
+ <img width=200px height=200px src="https://raw.githubusercontent.com/3Samourai/simply-readme/main/lib/file.svg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">simply-readme</h3>
