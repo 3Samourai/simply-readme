@@ -84,9 +84,6 @@ npm test
 
  <img width=1000px height=500px src="https://raw.githubusercontent.com/3Samourai/simply-readme/main/carbon.png" alt="GIF Example"></a>
 
-## 🗺 RoadMap <a name = "roadmap"></a>
-TODO - Add RoadMapYour RoadMap
-
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [SimplyREADME](https://github.com/3Samourai/simply-readme/) - README Generator
 
